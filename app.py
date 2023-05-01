@@ -3,7 +3,7 @@ import json
 from fuzzywuzzy import fuzz
 
 app = Flask(__name__)
-with open('PythonScripts\PlayerInfo.json', 'r') as f: playerDict = json.load(f)
+with open('PythonScripts\json\PlayerInfo.json', 'r') as f: playerDict = json.load(f)
 
 @app.route('/q=<search_query>')
 def search(search_query):
