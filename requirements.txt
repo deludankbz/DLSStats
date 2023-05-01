@@ -1,0 +1,4 @@
+openpyxl
+flask
+fuzzywuzzy
+python-Levenshtein

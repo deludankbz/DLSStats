@@ -1,0 +1,5302 @@
+{
+   "erling haaland": {
+      "gameInfo": {
+         "name": "Erling",
+         "surname": "Haaland",
+         "price": 2675,
+         "nation": "Norway",
+         "club": "Man City",
+         "pos": "CF",
+         "rate": 86,
+         "foot": "L",
+         "height": 194
+      },
+      "stats": {
+         "speed": 90,
+         "acc": 83,
+         "stamina": 79,
+         "control": 81,
+         "stength": 90,
+         "tackle": 50,
+         "passing": 75,
+         "shooting": 93,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kylian mbappe": {
+      "gameInfo": {
+         "name": "Kylian",
+         "surname": "Mbappe",
+         "price": 2675,
+         "nation": "France",
+         "club": "Paris SG",
+         "pos": "CF",
+         "rate": 86,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 94,
+         "acc": 94,
+         "stamina": 82,
+         "control": 88,
+         "stength": 75,
+         "tackle": 33,
+         "passing": 83,
+         "shooting": 91,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "lionel messi": {
+      "gameInfo": {
+         "name": "Lionel",
+         "surname": "Messi",
+         "price": 2675,
+         "nation": "Argentina",
+         "club": "Paris SG",
+         "pos": "CF",
+         "rate": 86,
+         "foot": "L",
+         "height": 170
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 87,
+         "stamina": 77,
+         "control": 95,
+         "stength": 69,
+         "tackle": 55,
+         "passing": 91,
+         "shooting": 91,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kevin de bruyne": {
+      "gameInfo": {
+         "name": "Kevin",
+         "surname": "De Bruyne",
+         "price": 2475,
+         "nation": "Belgium",
+         "club": "Man City",
+         "pos": "AM",
+         "rate": 86,
+         "foot": "R",
+         "height": 181
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 79,
+         "stamina": 86,
+         "control": 87,
+         "stength": 76,
+         "tackle": 59,
+         "passing": 94,
+         "shooting": 85,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "neymar jr": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Neymar Jr",
+         "price": 2510,
+         "nation": "Brazil",
+         "club": "Paris SG",
+         "pos": "LW",
+         "rate": 85,
+         "foot": "R",
+         "height": 175
+      },
+      "stats": {
+         "speed": 86,
+         "acc": 91,
+         "stamina": 74,
+         "control": 93,
+         "stength": 60,
+         "tackle": 47,
+         "passing": 88,
+         "shooting": 88,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "robert lewandowski": {
+      "gameInfo": {
+         "name": "Robert",
+         "surname": "Lewandowski",
+         "price": 2510,
+         "nation": "Poland",
+         "club": "Barcelona",
+         "pos": "CF",
+         "rate": 85,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 76,
+         "stamina": 84,
+         "control": 86,
+         "stength": 88,
+         "tackle": 51,
+         "passing": 80,
+         "shooting": 94,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "karim benzema": {
+      "gameInfo": {
+         "name": "Karim",
+         "surname": "Benzema",
+         "price": 2510,
+         "nation": "France",
+         "club": "Real Madrid",
+         "pos": "CF",
+         "rate": 85,
+         "foot": "R",
+         "height": 184
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 81,
+         "stamina": 81,
+         "control": 87,
+         "stength": 84,
+         "tackle": 45,
+         "passing": 82,
+         "shooting": 93,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "alisson": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Alisson",
+         "price": 1855,
+         "nation": "Brazil",
+         "club": "Liverpool",
+         "pos": "GK",
+         "rate": 85,
+         "foot": "R",
+         "height": 191
+      },
+      "stats": {
+         "speed": 62,
+         "acc": 61,
+         "stamina": null,
+         "control": 65,
+         "stength": 65,
+         "tackle": 48,
+         "passing": 68,
+         "shooting": null,
+         "gk_handling": 81,
+         "gk_reaction": 84
+      }
+   },
+   "mohamed salah": {
+      "gameInfo": {
+         "name": "Mohamed",
+         "surname": "Salah",
+         "price": 2355,
+         "nation": "Egypt",
+         "club": "Liverpool",
+         "pos": "RW",
+         "rate": 84,
+         "foot": "L",
+         "height": 175
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 90,
+         "stamina": 81,
+         "control": 85,
+         "stength": 70,
+         "tackle": 49,
+         "passing": 85,
+         "shooting": 87,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "vinicius junior": {
+      "gameInfo": {
+         "name": "Vinicius",
+         "surname": "Junior",
+         "price": 2355,
+         "nation": "Brazil",
+         "club": "Real Madrid",
+         "pos": "LW",
+         "rate": 84,
+         "foot": "R",
+         "height": 176
+      },
+      "stats": {
+         "speed": 92,
+         "acc": 92,
+         "stamina": 82,
+         "control": 89,
+         "stength": 68,
+         "tackle": 31,
+         "passing": 81,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "harry kane": {
+      "gameInfo": {
+         "name": "Harry",
+         "surname": "Kane",
+         "price": 2355,
+         "nation": "England",
+         "club": "Tottenham",
+         "pos": "CF",
+         "rate": 84,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 71,
+         "stamina": 86,
+         "control": 82,
+         "stength": 85,
+         "tackle": 53,
+         "passing": 85,
+         "shooting": 93,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "luka modric": {
+      "gameInfo": {
+         "name": "Luka",
+         "surname": "Modric",
+         "price": 2180,
+         "nation": "Croatia",
+         "club": "Real Madrid",
+         "pos": "CM",
+         "rate": 84,
+         "foot": "B",
+         "height": 172
+      },
+      "stats": {
+         "speed": 71,
+         "acc": 77,
+         "stamina": 82,
+         "control": 91,
+         "stength": 68,
+         "tackle": 69,
+         "passing": 93,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "virgil van dijk": {
+      "gameInfo": {
+         "name": "Virgil",
+         "surname": "van Dijk",
+         "price": 1920,
+         "nation": "Netherlands",
+         "club": "Liverpool",
+         "pos": "CB",
+         "rate": 84,
+         "foot": "R",
+         "height": 193
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 69,
+         "stamina": 84,
+         "control": 78,
+         "stength": 93,
+         "tackle": 88,
+         "passing": 80,
+         "shooting": 69,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "thibaut courtois": {
+      "gameInfo": {
+         "name": "Thibaut",
+         "surname": "Courtois",
+         "price": 1740,
+         "nation": "Belgium",
+         "club": "Real Madrid",
+         "pos": "GK",
+         "rate": 84,
+         "foot": "L",
+         "height": 200
+      },
+      "stats": {
+         "speed": 64,
+         "acc": 64,
+         "stamina": null,
+         "control": 64,
+         "stength": 67,
+         "tackle": 58,
+         "passing": 62,
+         "shooting": null,
+         "gk_handling": 80,
+         "gk_reaction": 83
+      }
+   },
+   "heung-min son": {
+      "gameInfo": {
+         "name": "Heung-Min",
+         "surname": "Son",
+         "price": 2200,
+         "nation": "South Korea",
+         "club": "Tottenham",
+         "pos": "LW",
+         "rate": 83,
+         "foot": "B",
+         "height": 184
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 88,
+         "stamina": 83,
+         "control": 85,
+         "stength": 67,
+         "tackle": 49,
+         "passing": 81,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "cristiano ronaldo": {
+      "gameInfo": {
+         "name": "Cristiano",
+         "surname": "Ronaldo",
+         "price": 2200,
+         "nation": "Portugal",
+         "club": "Portugal",
+         "pos": "CF",
+         "rate": 83,
+         "foot": "B",
+         "height": 187
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 79,
+         "stamina": 74,
+         "control": 86,
+         "stength": 82,
+         "tackle": 41,
+         "passing": 79,
+         "shooting": 91,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "rodri": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Rodri",
+         "price": 2035,
+         "nation": "Spain",
+         "club": "Man City",
+         "pos": "DM",
+         "rate": 83,
+         "foot": "R",
+         "height": 191
+      },
+      "stats": {
+         "speed": 71,
+         "acc": 69,
+         "stamina": 84,
+         "control": 81,
+         "stength": 85,
+         "tackle": 82,
+         "passing": 86,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "casemiro": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Casemiro",
+         "price": 2035,
+         "nation": "Brazil",
+         "club": "Man United",
+         "pos": "DM",
+         "rate": 83,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 66,
+         "stamina": 86,
+         "control": 79,
+         "stength": 88,
+         "tackle": 89,
+         "passing": 82,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "toni kroos": {
+      "gameInfo": {
+         "name": "Toni",
+         "surname": "Kroos",
+         "price": 2035,
+         "nation": "Germany",
+         "club": "Real Madrid",
+         "pos": "CM",
+         "rate": 83,
+         "foot": "B",
+         "height": 183
+      },
+      "stats": {
+         "speed": 67,
+         "acc": 68,
+         "stamina": 83,
+         "control": 87,
+         "stength": 75,
+         "tackle": 75,
+         "passing": 93,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "bruno fernandes": {
+      "gameInfo": {
+         "name": "Bruno",
+         "surname": "Fernandes",
+         "price": 2035,
+         "nation": "Portugal",
+         "club": "Man United",
+         "pos": "AM",
+         "rate": 83,
+         "foot": "R",
+         "height": 179
+      },
+      "stats": {
+         "speed": 73,
+         "acc": 75,
+         "stamina": 90,
+         "control": 84,
+         "stength": 68,
+         "tackle": 73,
+         "passing": 88,
+         "shooting": 83,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "bernardo silva": {
+      "gameInfo": {
+         "name": "Bernardo",
+         "surname": "Silva",
+         "price": 2035,
+         "nation": "Portugal",
+         "club": "Man City",
+         "pos": "AM",
+         "rate": 83,
+         "foot": "L",
+         "height": 173
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 82,
+         "stamina": 91,
+         "control": 89,
+         "stength": 63,
+         "tackle": 68,
+         "passing": 85,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "achraf hakimi": {
+      "gameInfo": {
+         "name": "Achraf",
+         "surname": "Hakimi",
+         "price": 1800,
+         "nation": "Morocco",
+         "club": "Paris SG",
+         "pos": "RB",
+         "rate": 83,
+         "foot": "R",
+         "height": 181
+      },
+      "stats": {
+         "speed": 90,
+         "acc": 90,
+         "stamina": 85,
+         "control": 78,
+         "stength": 69,
+         "tackle": 73,
+         "passing": 80,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "joao cancelo": {
+      "gameInfo": {
+         "name": "Joao",
+         "surname": "Cancelo",
+         "price": 1800,
+         "nation": "Portugal",
+         "club": "Man City",
+         "pos": "LB",
+         "rate": 83,
+         "foot": "R",
+         "height": 182
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 84,
+         "stamina": 83,
+         "control": 82,
+         "stength": 72,
+         "tackle": 79,
+         "passing": 84,
+         "shooting": 72,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ederson": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Ederson",
+         "price": 1630,
+         "nation": "Brazil",
+         "club": "Man City",
+         "pos": "GK",
+         "rate": 83,
+         "foot": "L",
+         "height": 188
+      },
+      "stats": {
+         "speed": 67,
+         "acc": 70,
+         "stamina": null,
+         "control": 67,
+         "stength": 59,
+         "tackle": 55,
+         "passing": 71,
+         "shooting": null,
+         "gk_handling": 80,
+         "gk_reaction": 81
+      }
+   },
+   "marc-andre ter stegen": {
+      "gameInfo": {
+         "name": "Marc-Andre",
+         "surname": "Ter Stegen",
+         "price": 1630,
+         "nation": "Germany",
+         "club": "Barcelona",
+         "pos": "GK",
+         "rate": 83,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 65,
+         "acc": 63,
+         "stamina": null,
+         "control": 63,
+         "stength": 63,
+         "tackle": 53,
+         "passing": 69,
+         "shooting": null,
+         "gk_handling": 75,
+         "gk_reaction": 84
+      }
+   },
+   "christopher nkunku": {
+      "gameInfo": {
+         "name": "Christopher",
+         "surname": "Nkunku",
+         "price": 2055,
+         "nation": "France",
+         "club": "France",
+         "pos": "SS",
+         "rate": 82,
+         "foot": "R",
+         "height": 175
+      },
+      "stats": {
+         "speed": 84,
+         "acc": 86,
+         "stamina": 75,
+         "control": 83,
+         "stength": 69,
+         "tackle": 46,
+         "passing": 83,
+         "shooting": 86,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "rafael leao": {
+      "gameInfo": {
+         "name": "Rafael",
+         "surname": "Leao",
+         "price": 2055,
+         "nation": "Portugal",
+         "club": "AC Milan",
+         "pos": "LW",
+         "rate": 82,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 89,
+         "stamina": 73,
+         "control": 89,
+         "stength": 75,
+         "tackle": 31,
+         "passing": 76,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "lautaro martinez": {
+      "gameInfo": {
+         "name": "Lautaro",
+         "surname": "Martinez",
+         "price": 2055,
+         "nation": "Argentina",
+         "club": "Inter Milan",
+         "pos": "CF",
+         "rate": 82,
+         "foot": "R",
+         "height": 174
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 83,
+         "stamina": 81,
+         "control": 82,
+         "stength": 80,
+         "tackle": 45,
+         "passing": 73,
+         "shooting": 87,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ciro immobile": {
+      "gameInfo": {
+         "name": "Ciro",
+         "surname": "Immobile",
+         "price": 2055,
+         "nation": "Italy",
+         "club": "Lazio",
+         "pos": "CF",
+         "rate": 82,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 85,
+         "acc": 81,
+         "stamina": 78,
+         "control": 79,
+         "stength": 72,
+         "tackle": 54,
+         "passing": 76,
+         "shooting": 90,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "bukayo saka": {
+      "gameInfo": {
+         "name": "Bukayo",
+         "surname": "Saka",
+         "price": 1900,
+         "nation": "England",
+         "club": "Arsenal",
+         "pos": "RM",
+         "rate": 82,
+         "foot": "L",
+         "height": 178
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 86,
+         "stamina": 81,
+         "control": 83,
+         "stength": 60,
+         "tackle": 63,
+         "passing": 82,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "n'golo kante": {
+      "gameInfo": {
+         "name": "N'Golo",
+         "surname": "Kante",
+         "price": 1900,
+         "nation": "France",
+         "club": "Chelsea",
+         "pos": "DM",
+         "rate": 82,
+         "foot": "R",
+         "height": 168
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 80,
+         "stamina": 92,
+         "control": 80,
+         "stength": 75,
+         "tackle": 88,
+         "passing": 79,
+         "shooting": 67,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "pedri": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Pedri",
+         "price": 1900,
+         "nation": "Spain",
+         "club": "Barcelona",
+         "pos": "CM",
+         "rate": 82,
+         "foot": "R",
+         "height": 174
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 83,
+         "stamina": 82,
+         "control": 87,
+         "stength": 62,
+         "tackle": 64,
+         "passing": 87,
+         "shooting": 74,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "frenkie de jong": {
+      "gameInfo": {
+         "name": "Frenkie",
+         "surname": "De Jong",
+         "price": 1900,
+         "nation": "Netherlands",
+         "club": "Barcelona",
+         "pos": "CM",
+         "rate": 82,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 80,
+         "stamina": 85,
+         "control": 84,
+         "stength": 67,
+         "tackle": 71,
+         "passing": 90,
+         "shooting": 73,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marco verratti": {
+      "gameInfo": {
+         "name": "Marco",
+         "surname": "Verratti",
+         "price": 1900,
+         "nation": "Italy",
+         "club": "Paris SG",
+         "pos": "CM",
+         "rate": 82,
+         "foot": "R",
+         "height": 165
+      },
+      "stats": {
+         "speed": 68,
+         "acc": 74,
+         "stamina": 82,
+         "control": 90,
+         "stength": 62,
+         "tackle": 81,
+         "passing": 91,
+         "shooting": 69,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "thiago": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Thiago",
+         "price": 1900,
+         "nation": "Spain",
+         "club": "Liverpool",
+         "pos": "CM",
+         "rate": 82,
+         "foot": "R",
+         "height": 174
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 77,
+         "stamina": 75,
+         "control": 85,
+         "stength": 73,
+         "tackle": 73,
+         "passing": 90,
+         "shooting": 73,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "federico valverde": {
+      "gameInfo": {
+         "name": "Federico",
+         "surname": "Valverde",
+         "price": 1900,
+         "nation": "Uruguay",
+         "club": "Real Madrid",
+         "pos": "CM",
+         "rate": 82,
+         "foot": "R",
+         "height": 182
+      },
+      "stats": {
+         "speed": 84,
+         "acc": 82,
+         "stamina": 82,
+         "control": 80,
+         "stength": 70,
+         "tackle": 75,
+         "passing": 81,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "sergej milinkovic-savic": {
+      "gameInfo": {
+         "name": "Sergej",
+         "surname": "Milinkovic-Savic",
+         "price": 1900,
+         "nation": "Serbia",
+         "club": "Lazio",
+         "pos": "CM",
+         "rate": 82,
+         "foot": "R",
+         "height": 191
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 65,
+         "stamina": 89,
+         "control": 80,
+         "stength": 87,
+         "tackle": 74,
+         "passing": 83,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "trent alexander-arnold": {
+      "gameInfo": {
+         "name": "Trent",
+         "surname": "Alexander-Arnold",
+         "price": 1680,
+         "nation": "England",
+         "club": "Liverpool",
+         "pos": "RB",
+         "rate": 82,
+         "foot": "R",
+         "height": 175
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 79,
+         "stamina": 81,
+         "control": 80,
+         "stength": 67,
+         "tackle": 70,
+         "passing": 88,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "reece james": {
+      "gameInfo": {
+         "name": "Reece",
+         "surname": "James",
+         "price": 1680,
+         "nation": "England",
+         "club": "Chelsea",
+         "pos": "RB",
+         "rate": 82,
+         "foot": "R",
+         "height": 179
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 80,
+         "stamina": 81,
+         "control": 79,
+         "stength": 77,
+         "tackle": 78,
+         "passing": 77,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "theo hernandez": {
+      "gameInfo": {
+         "name": "Theo",
+         "surname": "Hernandez",
+         "price": 1680,
+         "nation": "France",
+         "club": "AC Milan",
+         "pos": "LB",
+         "rate": 82,
+         "foot": "L",
+         "height": 184
+      },
+      "stats": {
+         "speed": 87,
+         "acc": 89,
+         "stamina": 82,
+         "control": 79,
+         "stength": 71,
+         "tackle": 75,
+         "passing": 75,
+         "shooting": 70,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "andrew robertson": {
+      "gameInfo": {
+         "name": "Andrew",
+         "surname": "Robertson",
+         "price": 1680,
+         "nation": "Scotland",
+         "club": "Liverpool",
+         "pos": "LB",
+         "rate": 82,
+         "foot": "L",
+         "height": 178
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 83,
+         "stamina": 88,
+         "control": 79,
+         "stength": 73,
+         "tackle": 78,
+         "passing": 84,
+         "shooting": 60,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ruben dias": {
+      "gameInfo": {
+         "name": "Ruben",
+         "surname": "Dias",
+         "price": 1680,
+         "nation": "Portugal",
+         "club": "Man City",
+         "pos": "CB",
+         "rate": 82,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 72,
+         "acc": 69,
+         "stamina": 77,
+         "control": 79,
+         "stength": 89,
+         "tackle": 90,
+         "passing": 80,
+         "shooting": 58,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "milan skriniar": {
+      "gameInfo": {
+         "name": "Milan",
+         "surname": "Skriniar",
+         "price": 1680,
+         "nation": "Slovakia",
+         "club": "Inter Milan",
+         "pos": "CB",
+         "rate": 82,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 74,
+         "stamina": 85,
+         "control": 75,
+         "stength": 85,
+         "tackle": 85,
+         "passing": 79,
+         "shooting": 59,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "antonio rudiger": {
+      "gameInfo": {
+         "name": "Antonio",
+         "surname": "Rudiger",
+         "price": 1680,
+         "nation": "Germany",
+         "club": "Real Madrid",
+         "pos": "CB",
+         "rate": 82,
+         "foot": "R",
+         "height": 190
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 72,
+         "stamina": 81,
+         "control": 75,
+         "stength": 89,
+         "tackle": 86,
+         "passing": 79,
+         "shooting": 61,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kalidou koulibaly": {
+      "gameInfo": {
+         "name": "Kalidou",
+         "surname": "Koulibaly",
+         "price": 1680,
+         "nation": "Senegal",
+         "club": "Chelsea",
+         "pos": "CB",
+         "rate": 82,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 73,
+         "stamina": 75,
+         "control": 74,
+         "stength": 93,
+         "tackle": 87,
+         "passing": 77,
+         "shooting": 57,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marquinhos": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Marquinhos",
+         "price": 1680,
+         "nation": "Brazil",
+         "club": "Paris SG",
+         "pos": "CB",
+         "rate": 82,
+         "foot": "R",
+         "height": 183
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 75,
+         "stamina": 84,
+         "control": 74,
+         "stength": 81,
+         "tackle": 86,
+         "passing": 79,
+         "shooting": 59,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jan oblak": {
+      "gameInfo": {
+         "name": "Jan",
+         "surname": "Oblak",
+         "price": 1520,
+         "nation": "Slovenia",
+         "club": "Atletico Madrid",
+         "pos": "GK",
+         "rate": 82,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 67,
+         "acc": 66,
+         "stamina": null,
+         "control": 55,
+         "stength": 61,
+         "tackle": 48,
+         "passing": 55,
+         "shooting": null,
+         "gk_handling": 80,
+         "gk_reaction": 79
+      }
+   },
+   "david de gea": {
+      "gameInfo": {
+         "name": "David",
+         "surname": "De Gea",
+         "price": 1520,
+         "nation": "Spain",
+         "club": "Man United",
+         "pos": "GK",
+         "rate": 82,
+         "foot": "R",
+         "height": 192
+      },
+      "stats": {
+         "speed": 65,
+         "acc": 66,
+         "stamina": null,
+         "control": 56,
+         "stength": 61,
+         "tackle": 63,
+         "passing": 58,
+         "shooting": null,
+         "gk_handling": 74,
+         "gk_reaction": 85
+      }
+   },
+   "gianluigi donnarumma": {
+      "gameInfo": {
+         "name": "Gianluigi",
+         "surname": "Donnarumma",
+         "price": 1520,
+         "nation": "Italy",
+         "club": "Paris SG",
+         "pos": "GK",
+         "rate": 82,
+         "foot": "R",
+         "height": 196
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 65,
+         "stamina": null,
+         "control": 59,
+         "stength": 65,
+         "tackle": 43,
+         "passing": 63,
+         "shooting": null,
+         "gk_handling": 78,
+         "gk_reaction": 80
+      }
+   },
+   "paulo dybala": {
+      "gameInfo": {
+         "name": "Paulo",
+         "surname": "Dybala",
+         "price": 1915,
+         "nation": "Argentina",
+         "club": "Roma",
+         "pos": "SS",
+         "rate": 81,
+         "foot": "L",
+         "height": 177
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 85,
+         "stamina": 73,
+         "control": 88,
+         "stength": 59,
+         "tackle": 51,
+         "passing": 85,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "antoine griezmann": {
+      "gameInfo": {
+         "name": "Antoine",
+         "surname": "Griezmann",
+         "price": 1915,
+         "nation": "France",
+         "club": "Atletico Madrid",
+         "pos": "SS",
+         "rate": 81,
+         "foot": "L",
+         "height": 176
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 82,
+         "stamina": 78,
+         "control": 84,
+         "stength": 70,
+         "tackle": 59,
+         "passing": 82,
+         "shooting": 81,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "riyad mahrez": {
+      "gameInfo": {
+         "name": "Riyad",
+         "surname": "Mahrez",
+         "price": 1915,
+         "nation": "Algeria",
+         "club": "Man City",
+         "pos": "RW",
+         "rate": 81,
+         "foot": "L",
+         "height": 179
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 81,
+         "stamina": 69,
+         "control": 87,
+         "stength": 69,
+         "tackle": 52,
+         "passing": 80,
+         "shooting": 81,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "dusan vlahovic": {
+      "gameInfo": {
+         "name": "Dusan",
+         "surname": "Vlahovic",
+         "price": 1915,
+         "nation": "Serbia",
+         "club": "Juventus",
+         "pos": "CF",
+         "rate": 81,
+         "foot": "L",
+         "height": 190
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 78,
+         "stamina": 78,
+         "control": 81,
+         "stength": 85,
+         "tackle": 37,
+         "passing": 73,
+         "shooting": 89,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "victor osimhen": {
+      "gameInfo": {
+         "name": "Victor",
+         "surname": "Osimhen",
+         "price": 1915,
+         "nation": "Nigeria",
+         "club": "Napoli",
+         "pos": "CF",
+         "rate": 81,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 83,
+         "stamina": 77,
+         "control": 77,
+         "stength": 81,
+         "tackle": 36,
+         "passing": 73,
+         "shooting": 86,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "sergio busquets": {
+      "gameInfo": {
+         "name": "Sergio",
+         "surname": "Busquets",
+         "price": 1770,
+         "nation": "Spain",
+         "club": "Barcelona",
+         "pos": "DM",
+         "rate": 81,
+         "foot": "R",
+         "height": 189
+      },
+      "stats": {
+         "speed": 63,
+         "acc": 60,
+         "stamina": 87,
+         "control": 83,
+         "stength": 82,
+         "tackle": 87,
+         "passing": 86,
+         "shooting": 68,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marcos llorente": {
+      "gameInfo": {
+         "name": "Marcos",
+         "surname": "Llorente",
+         "price": 1770,
+         "nation": "Spain",
+         "club": "Atletico Madrid",
+         "pos": "CM",
+         "rate": 81,
+         "foot": "R",
+         "height": 184
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 81,
+         "stamina": 89,
+         "control": 77,
+         "stength": 73,
+         "tackle": 73,
+         "passing": 80,
+         "shooting": 72,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "nicolo barella": {
+      "gameInfo": {
+         "name": "Nicolo",
+         "surname": "Barella",
+         "price": 1770,
+         "nation": "Italy",
+         "club": "Inter Milan",
+         "pos": "CM",
+         "rate": 81,
+         "foot": "R",
+         "height": 172
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 77,
+         "stamina": 88,
+         "control": 85,
+         "stength": 69,
+         "tackle": 72,
+         "passing": 85,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jude bellingham": {
+      "gameInfo": {
+         "name": "Jude",
+         "surname": "Bellingham",
+         "price": 1770,
+         "nation": "England",
+         "club": "England",
+         "pos": "CM",
+         "rate": 81,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 77,
+         "stamina": 84,
+         "control": 83,
+         "stength": 73,
+         "tackle": 76,
+         "passing": 81,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "phil foden": {
+      "gameInfo": {
+         "name": "Phil",
+         "surname": "Foden",
+         "price": 1770,
+         "nation": "England",
+         "club": "Man City",
+         "pos": "AM",
+         "rate": 81,
+         "foot": "L",
+         "height": 171
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 84,
+         "stamina": 79,
+         "control": 87,
+         "stength": 64,
+         "tackle": 55,
+         "passing": 84,
+         "shooting": 81,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "lorenzo pellegrini": {
+      "gameInfo": {
+         "name": "Lorenzo",
+         "surname": "Pellegrini",
+         "price": 1770,
+         "nation": "Italy",
+         "club": "Roma",
+         "pos": "AM",
+         "rate": 81,
+         "foot": "B",
+         "height": 186
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 76,
+         "stamina": 85,
+         "control": 81,
+         "stength": 69,
+         "tackle": 71,
+         "passing": 83,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "martin odegaard": {
+      "gameInfo": {
+         "name": "Martin",
+         "surname": "Odegaard",
+         "price": 1770,
+         "nation": "Norway",
+         "club": "Arsenal",
+         "pos": "AM",
+         "rate": 81,
+         "foot": "L",
+         "height": 178
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 80,
+         "stamina": 81,
+         "control": 85,
+         "stength": 64,
+         "tackle": 57,
+         "passing": 86,
+         "shooting": 79,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jordi alba": {
+      "gameInfo": {
+         "name": "Jordi",
+         "surname": "Alba",
+         "price": 1570,
+         "nation": "Spain",
+         "club": "Barcelona",
+         "pos": "LB",
+         "rate": 81,
+         "foot": "L",
+         "height": 170
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 82,
+         "stamina": 80,
+         "control": 80,
+         "stength": 64,
+         "tackle": 79,
+         "passing": 83,
+         "shooting": 64,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "aymeric laporte": {
+      "gameInfo": {
+         "name": "Aymeric",
+         "surname": "Laporte",
+         "price": 1570,
+         "nation": "Spain",
+         "club": "Man City",
+         "pos": "CB",
+         "rate": 81,
+         "foot": "L",
+         "height": 189
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 69,
+         "stamina": 80,
+         "control": 79,
+         "stength": 87,
+         "tackle": 87,
+         "passing": 82,
+         "shooting": 59,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "david alaba": {
+      "gameInfo": {
+         "name": "David",
+         "surname": "Alaba",
+         "price": 1570,
+         "nation": "Austria",
+         "club": "Real Madrid",
+         "pos": "CB",
+         "rate": 81,
+         "foot": "L",
+         "height": 180
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 80,
+         "stamina": 73,
+         "control": 79,
+         "stength": 75,
+         "tackle": 85,
+         "passing": 80,
+         "shooting": 64,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "eder militao": {
+      "gameInfo": {
+         "name": "Eder",
+         "surname": "Militao",
+         "price": 1570,
+         "nation": "Brazil",
+         "club": "Real Madrid",
+         "pos": "CB",
+         "rate": 81,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 84,
+         "acc": 79,
+         "stamina": 80,
+         "control": 73,
+         "stength": 85,
+         "tackle": 86,
+         "passing": 77,
+         "shooting": 49,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "edouard mendy": {
+      "gameInfo": {
+         "name": "Edouard",
+         "surname": "Mendy",
+         "price": 1420,
+         "nation": "Senegal",
+         "club": "Chelsea",
+         "pos": "GK",
+         "rate": 81,
+         "foot": "R",
+         "height": 195
+      },
+      "stats": {
+         "speed": 64,
+         "acc": 65,
+         "stamina": null,
+         "control": 59,
+         "stength": 70,
+         "tackle": 50,
+         "passing": 60,
+         "shooting": null,
+         "gk_handling": 78,
+         "gk_reaction": 79
+      }
+   },
+   "mike maignan": {
+      "gameInfo": {
+         "name": "Mike",
+         "surname": "Maignan",
+         "price": 1420,
+         "nation": "France",
+         "club": "AC Milan",
+         "pos": "GK",
+         "rate": 81,
+         "foot": "R",
+         "height": 191
+      },
+      "stats": {
+         "speed": 58,
+         "acc": 56,
+         "stamina": null,
+         "control": 62,
+         "stength": 64,
+         "tackle": 42,
+         "passing": 64,
+         "shooting": null,
+         "gk_handling": 78,
+         "gk_reaction": 78
+      }
+   },
+   "domenico  berardi": {
+      "gameInfo": {
+         "name": "Domenico ",
+         "surname": "Berardi",
+         "price": 1780,
+         "nation": "Italy",
+         "club": "Sassuolo",
+         "pos": "RW",
+         "rate": 80,
+         "foot": "L",
+         "height": 183
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 77,
+         "stamina": 77,
+         "control": 83,
+         "stength": 70,
+         "tackle": 53,
+         "passing": 81,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ousmane dembele": {
+      "gameInfo": {
+         "name": "Ousmane",
+         "surname": "Dembele",
+         "price": 1780,
+         "nation": "France",
+         "club": "Barcelona",
+         "pos": "RW",
+         "rate": 80,
+         "foot": "B",
+         "height": 178
+      },
+      "stats": {
+         "speed": 91,
+         "acc": 91,
+         "stamina": 65,
+         "control": 87,
+         "stength": 55,
+         "tackle": 39,
+         "passing": 82,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "raheem sterling": {
+      "gameInfo": {
+         "name": "Raheem",
+         "surname": "Sterling",
+         "price": 1780,
+         "nation": "England",
+         "club": "Chelsea",
+         "pos": "LW",
+         "rate": 80,
+         "foot": "R",
+         "height": 170
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 92,
+         "stamina": 80,
+         "control": 83,
+         "stength": 60,
+         "tackle": 47,
+         "passing": 78,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "luis diaz": {
+      "gameInfo": {
+         "name": "Luis",
+         "surname": "Diaz",
+         "price": 1780,
+         "nation": "Colombia",
+         "club": "Liverpool",
+         "pos": "LW",
+         "rate": 80,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 90,
+         "stamina": 75,
+         "control": 84,
+         "stength": 66,
+         "tackle": 38,
+         "passing": 79,
+         "shooting": 79,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jack grealish": {
+      "gameInfo": {
+         "name": "Jack",
+         "surname": "Grealish",
+         "price": 1780,
+         "nation": "England",
+         "club": "Man City",
+         "pos": "LW",
+         "rate": 80,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 78,
+         "acc": 83,
+         "stamina": 73,
+         "control": 87,
+         "stength": 71,
+         "tackle": 45,
+         "passing": 80,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "memphis depay": {
+      "gameInfo": {
+         "name": "Memphis",
+         "surname": "Depay",
+         "price": 1780,
+         "nation": "Netherlands",
+         "club": "Barcelona",
+         "pos": "LW",
+         "rate": 80,
+         "foot": "R",
+         "height": 176
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 80,
+         "stamina": 74,
+         "control": 84,
+         "stength": 77,
+         "tackle": 41,
+         "passing": 77,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marcus rashford": {
+      "gameInfo": {
+         "name": "Marcus",
+         "surname": "Rashford",
+         "price": 1780,
+         "nation": "England",
+         "club": "Man United",
+         "pos": "LW",
+         "rate": 80,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 89,
+         "acc": 83,
+         "stamina": 74,
+         "control": 83,
+         "stength": 72,
+         "tackle": 37,
+         "passing": 71,
+         "shooting": 83,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "romelu lukaku": {
+      "gameInfo": {
+         "name": "Romelu",
+         "surname": "Lukaku",
+         "price": 1780,
+         "nation": "Belgium",
+         "club": "Inter Milan",
+         "pos": "CF",
+         "rate": 80,
+         "foot": "L",
+         "height": 191
+      },
+      "stats": {
+         "speed": 84,
+         "acc": 73,
+         "stamina": 64,
+         "control": 75,
+         "stength": 93,
+         "tackle": 42,
+         "passing": 73,
+         "shooting": 86,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "diogo jota": {
+      "gameInfo": {
+         "name": "Diogo",
+         "surname": "Jota",
+         "price": 1780,
+         "nation": "Portugal",
+         "club": "Liverpool",
+         "pos": "CF",
+         "rate": 80,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 84,
+         "stamina": 78,
+         "control": 82,
+         "stength": 70,
+         "tackle": 51,
+         "passing": 77,
+         "shooting": 82,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "gabriel jesus": {
+      "gameInfo": {
+         "name": "Gabriel",
+         "surname": "Jesus",
+         "price": 1780,
+         "nation": "Brazil",
+         "club": "Arsenal",
+         "pos": "CF",
+         "rate": 80,
+         "foot": "R",
+         "height": 175
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 84,
+         "stamina": 77,
+         "control": 83,
+         "stength": 67,
+         "tackle": 44,
+         "passing": 76,
+         "shooting": 82,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "gerard moreno": {
+      "gameInfo": {
+         "name": "Gerard",
+         "surname": "Moreno",
+         "price": 1780,
+         "nation": "Spain",
+         "club": "Villareal",
+         "pos": "CF",
+         "rate": 80,
+         "foot": "L",
+         "height": 180
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 78,
+         "stamina": 72,
+         "control": 83,
+         "stength": 74,
+         "tackle": 45,
+         "passing": 77,
+         "shooting": 85,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "roberto firmino": {
+      "gameInfo": {
+         "name": "Roberto",
+         "surname": "Firmino",
+         "price": 1780,
+         "nation": "Brazil",
+         "club": "Liverpool",
+         "pos": "CF",
+         "rate": 80,
+         "foot": "R",
+         "height": 181
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 81,
+         "stamina": 78,
+         "control": 85,
+         "stength": 72,
+         "tackle": 47,
+         "passing": 80,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "wissam ben yedder": {
+      "gameInfo": {
+         "name": "Wissam",
+         "surname": "Ben Yedder",
+         "price": 1780,
+         "nation": "France",
+         "club": "Monaco",
+         "pos": "CF",
+         "rate": 80,
+         "foot": "B",
+         "height": 170
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 84,
+         "stamina": 79,
+         "control": 83,
+         "stength": 65,
+         "tackle": 44,
+         "passing": 75,
+         "shooting": 86,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "yannick carrasco": {
+      "gameInfo": {
+         "name": "Yannick",
+         "surname": "Carrasco",
+         "price": 1645,
+         "nation": "Belgium",
+         "club": "Atletico Madrid",
+         "pos": "LM",
+         "rate": 80,
+         "foot": "R",
+         "height": 181
+      },
+      "stats": {
+         "speed": 85,
+         "acc": 85,
+         "stamina": 78,
+         "control": 85,
+         "stength": 62,
+         "tackle": 52,
+         "passing": 77,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ivan perisic": {
+      "gameInfo": {
+         "name": "Ivan",
+         "surname": "Perisic",
+         "price": 1645,
+         "nation": "Croatia",
+         "club": "Tottenham",
+         "pos": "LM",
+         "rate": 80,
+         "foot": "B",
+         "height": 186
+      },
+      "stats": {
+         "speed": 78,
+         "acc": 78,
+         "stamina": 77,
+         "control": 79,
+         "stength": 74,
+         "tackle": 63,
+         "passing": 81,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marcelo brozovic": {
+      "gameInfo": {
+         "name": "Marcelo",
+         "surname": "Brozovic",
+         "price": 1645,
+         "nation": "Croatia",
+         "club": "Inter Milan",
+         "pos": "DM",
+         "rate": 80,
+         "foot": "B",
+         "height": 181
+      },
+      "stats": {
+         "speed": 72,
+         "acc": 72,
+         "stamina": 91,
+         "control": 82,
+         "stength": 72,
+         "tackle": 79,
+         "passing": 82,
+         "shooting": 70,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "fabinho": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Fabinho",
+         "price": 1645,
+         "nation": "Brazil",
+         "club": "Liverpool",
+         "pos": "DM",
+         "rate": 80,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 65,
+         "stamina": 84,
+         "control": 78,
+         "stength": 82,
+         "tackle": 82,
+         "passing": 80,
+         "shooting": 70,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "thomas partey": {
+      "gameInfo": {
+         "name": "Thomas",
+         "surname": "Partey",
+         "price": 1645,
+         "nation": "Ghana",
+         "club": "Arsenal",
+         "pos": "DM",
+         "rate": 80,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 72,
+         "acc": 70,
+         "stamina": 81,
+         "control": 79,
+         "stength": 83,
+         "tackle": 81,
+         "passing": 81,
+         "shooting": 68,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "frank kessie": {
+      "gameInfo": {
+         "name": "Frank",
+         "surname": "Kessie",
+         "price": 1645,
+         "nation": "Ivory Coast",
+         "club": "Barcelona",
+         "pos": "CM",
+         "rate": 80,
+         "foot": "R",
+         "height": 183
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 72,
+         "stamina": 84,
+         "control": 76,
+         "stength": 82,
+         "tackle": 78,
+         "passing": 78,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "hakan calhanoglu": {
+      "gameInfo": {
+         "name": "Hakan",
+         "surname": "Calhanoglu",
+         "price": 1645,
+         "nation": "Turkey",
+         "club": "Inter Milan",
+         "pos": "CM",
+         "rate": 80,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 74,
+         "stamina": 81,
+         "control": 82,
+         "stength": 63,
+         "tackle": 66,
+         "passing": 87,
+         "shooting": 83,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jorginho": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Jorginho",
+         "price": 1645,
+         "nation": "Italy",
+         "club": "Arsenal",
+         "pos": "CM",
+         "rate": 80,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 67,
+         "acc": 67,
+         "stamina": 80,
+         "control": 83,
+         "stength": 72,
+         "tackle": 76,
+         "passing": 86,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "paul pogba": {
+      "gameInfo": {
+         "name": "Paul",
+         "surname": "Pogba",
+         "price": 1645,
+         "nation": "France",
+         "club": "Juventus",
+         "pos": "CM",
+         "rate": 80,
+         "foot": "B",
+         "height": 191
+      },
+      "stats": {
+         "speed": 71,
+         "acc": 69,
+         "stamina": 71,
+         "control": 81,
+         "stength": 83,
+         "tackle": 61,
+         "passing": 87,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ilkay gundogan": {
+      "gameInfo": {
+         "name": "Ilkay",
+         "surname": "Gundogan",
+         "price": 1645,
+         "nation": "Germany",
+         "club": "Man City",
+         "pos": "CM",
+         "rate": 80,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 73,
+         "acc": 73,
+         "stamina": 75,
+         "control": 82,
+         "stength": 71,
+         "tackle": 67,
+         "passing": 82,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "mason mount": {
+      "gameInfo": {
+         "name": "Mason",
+         "surname": "Mount",
+         "price": 1645,
+         "nation": "England",
+         "club": "Chelsea",
+         "pos": "AM",
+         "rate": 80,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 74,
+         "stamina": 78,
+         "control": 81,
+         "stength": 70,
+         "tackle": 62,
+         "passing": 82,
+         "shooting": 81,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kyle walker": {
+      "gameInfo": {
+         "name": "Kyle",
+         "surname": "Walker",
+         "price": 1460,
+         "nation": "England",
+         "club": "Man City",
+         "pos": "RB",
+         "rate": 80,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 89,
+         "acc": 87,
+         "stamina": 77,
+         "control": 73,
+         "stength": 76,
+         "tackle": 79,
+         "passing": 74,
+         "shooting": 48,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "juan cuadrado": {
+      "gameInfo": {
+         "name": "Juan",
+         "surname": "Cuadrado",
+         "price": 1460,
+         "nation": "Colombia",
+         "club": "Juventus",
+         "pos": "RB",
+         "rate": 80,
+         "foot": "R",
+         "height": 179
+      },
+      "stats": {
+         "speed": 85,
+         "acc": 86,
+         "stamina": 78,
+         "control": 83,
+         "stength": 57,
+         "tackle": 74,
+         "passing": 79,
+         "shooting": 68,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kieran trippier": {
+      "gameInfo": {
+         "name": "Kieran",
+         "surname": "Trippier",
+         "price": 1460,
+         "nation": "England",
+         "club": "Newcastle",
+         "pos": "RB",
+         "rate": 80,
+         "foot": "R",
+         "height": 173
+      },
+      "stats": {
+         "speed": 71,
+         "acc": 73,
+         "stamina": 81,
+         "control": 77,
+         "stength": 70,
+         "tackle": 79,
+         "passing": 85,
+         "shooting": 74,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "giovanni di lorenzo": {
+      "gameInfo": {
+         "name": "Giovanni",
+         "surname": "Di Lorenzo",
+         "price": 1460,
+         "nation": "Italy",
+         "club": "Napoli",
+         "pos": "RB",
+         "rate": 80,
+         "foot": "R",
+         "height": 183
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 81,
+         "stamina": 86,
+         "control": 75,
+         "stength": 73,
+         "tackle": 79,
+         "passing": 78,
+         "shooting": 58,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ferland mendy": {
+      "gameInfo": {
+         "name": "Ferland",
+         "surname": "Mendy",
+         "price": 1460,
+         "nation": "France",
+         "club": "Real Madrid",
+         "pos": "LB",
+         "rate": 80,
+         "foot": "L",
+         "height": 180
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 87,
+         "stamina": 76,
+         "control": 77,
+         "stength": 74,
+         "tackle": 76,
+         "passing": 79,
+         "shooting": 49,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jose gaya": {
+      "gameInfo": {
+         "name": "Jose",
+         "surname": "Gaya",
+         "price": 1460,
+         "nation": "Spain",
+         "club": "Valencia",
+         "pos": "LB",
+         "rate": 80,
+         "foot": "L",
+         "height": 172
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 82,
+         "stamina": 81,
+         "control": 76,
+         "stength": 69,
+         "tackle": 80,
+         "passing": 81,
+         "shooting": 55,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jules kounde": {
+      "gameInfo": {
+         "name": "Jules",
+         "surname": "Kounde",
+         "price": 1460,
+         "nation": "France",
+         "club": "Barcelona",
+         "pos": "CB",
+         "rate": 80,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 74,
+         "stamina": 82,
+         "control": 77,
+         "stength": 81,
+         "tackle": 85,
+         "passing": 77,
+         "shooting": 54,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "raphael varane": {
+      "gameInfo": {
+         "name": "Raphael",
+         "surname": "Varane",
+         "price": 1460,
+         "nation": "France",
+         "club": "Man United",
+         "pos": "CB",
+         "rate": 80,
+         "foot": "R",
+         "height": 191
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 78,
+         "stamina": 71,
+         "control": 74,
+         "stength": 83,
+         "tackle": 83,
+         "passing": 76,
+         "shooting": 52,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "joel matip": {
+      "gameInfo": {
+         "name": "Joel",
+         "surname": "Matip",
+         "price": 1460,
+         "nation": "Cameroon",
+         "club": "Liverpool",
+         "pos": "CB",
+         "rate": 80,
+         "foot": "R",
+         "height": 195
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 71,
+         "stamina": 77,
+         "control": 74,
+         "stength": 84,
+         "tackle": 83,
+         "passing": 76,
+         "shooting": 60,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "thiago silva": {
+      "gameInfo": {
+         "name": "Thiago",
+         "surname": "Silva",
+         "price": 1460,
+         "nation": "Brazil",
+         "club": "Chelsea",
+         "pos": "CB",
+         "rate": 80,
+         "foot": "R",
+         "height": 181
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 66,
+         "stamina": 83,
+         "control": 74,
+         "stength": 85,
+         "tackle": 91,
+         "passing": 80,
+         "shooting": 66,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "stefan de vrij": {
+      "gameInfo": {
+         "name": "Stefan",
+         "surname": "De Vrij",
+         "price": 1460,
+         "nation": "Netherlands",
+         "club": "Inter Milan",
+         "pos": "CB",
+         "rate": 80,
+         "foot": "R",
+         "height": 189
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 74,
+         "stamina": 80,
+         "control": 74,
+         "stength": 80,
+         "tackle": 87,
+         "passing": 79,
+         "shooting": 65,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "fikayo tomori": {
+      "gameInfo": {
+         "name": "Fikayo",
+         "surname": "Tomori",
+         "price": 1460,
+         "nation": "England",
+         "club": "AC Milan",
+         "pos": "CB",
+         "rate": 80,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 81,
+         "stamina": 78,
+         "control": 71,
+         "stength": 79,
+         "tackle": 82,
+         "passing": 75,
+         "shooting": 55,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "samir handanovic": {
+      "gameInfo": {
+         "name": "Samir",
+         "surname": "Handanovic",
+         "price": 1320,
+         "nation": "Slovenia",
+         "club": "Inter Milan",
+         "pos": "GK",
+         "rate": 80,
+         "foot": "R",
+         "height": 193
+      },
+      "stats": {
+         "speed": 52,
+         "acc": 51,
+         "stamina": null,
+         "control": 62,
+         "stength": 66,
+         "tackle": 41,
+         "passing": 67,
+         "shooting": null,
+         "gk_handling": 77,
+         "gk_reaction": 78
+      }
+   },
+   "keylor navas": {
+      "gameInfo": {
+         "name": "Keylor",
+         "surname": "Navas",
+         "price": 1320,
+         "nation": "Costa Rica",
+         "club": "Paris SG",
+         "pos": "GK",
+         "rate": 80,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 68,
+         "stamina": null,
+         "control": 65,
+         "stength": 54,
+         "tackle": 59,
+         "passing": 63,
+         "shooting": null,
+         "gk_handling": 73,
+         "gk_reaction": 79
+      }
+   },
+   "yann sommer": {
+      "gameInfo": {
+         "name": "Yann",
+         "surname": "Sommer",
+         "price": 1320,
+         "nation": "Switzerland",
+         "club": "Switzerland",
+         "pos": "GK",
+         "rate": 80,
+         "foot": "R",
+         "height": 183
+      },
+      "stats": {
+         "speed": 62,
+         "acc": 60,
+         "stamina": null,
+         "control": 63,
+         "stength": 63,
+         "tackle": 52,
+         "passing": 62,
+         "shooting": null,
+         "gk_handling": 75,
+         "gk_reaction": 79
+      }
+   },
+   "sebastien haller": {
+      "gameInfo": {
+         "name": "Sebastien",
+         "surname": "Haller",
+         "price": 1650,
+         "nation": "Ivory Coast",
+         "club": "Ivory Coast",
+         "pos": "CF",
+         "rate": 79,
+         "foot": "R",
+         "height": 190
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 78,
+         "stamina": 78,
+         "control": 77,
+         "stength": 88,
+         "tackle": 43,
+         "passing": 70,
+         "shooting": 85,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "richarlison": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Richarlison",
+         "price": 1650,
+         "nation": "Brazil",
+         "club": "Tottenham",
+         "pos": "CF",
+         "rate": 79,
+         "foot": "R",
+         "height": 184
+      },
+      "stats": {
+         "speed": 78,
+         "acc": 79,
+         "stamina": 78,
+         "control": 79,
+         "stength": 76,
+         "tackle": 48,
+         "passing": 69,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "luis muriel": {
+      "gameInfo": {
+         "name": "Luis",
+         "surname": "Muriel",
+         "price": 1650,
+         "nation": "Colombia",
+         "club": "Atalanta",
+         "pos": "CF",
+         "rate": 79,
+         "foot": "R",
+         "height": 179
+      },
+      "stats": {
+         "speed": 84,
+         "acc": 84,
+         "stamina": 65,
+         "control": 82,
+         "stength": 69,
+         "tackle": 42,
+         "passing": 77,
+         "shooting": 83,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "duvan zapata": {
+      "gameInfo": {
+         "name": "Duvan",
+         "surname": "Zapata",
+         "price": 1650,
+         "nation": "Colombia",
+         "club": "Atalanta",
+         "pos": "CF",
+         "rate": 79,
+         "foot": "R",
+         "height": 189
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 75,
+         "stamina": 69,
+         "control": 79,
+         "stength": 85,
+         "tackle": 39,
+         "passing": 74,
+         "shooting": 83,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "pierre-emerick aubameyang": {
+      "gameInfo": {
+         "name": "Pierre-Emerick",
+         "surname": "Aubameyang",
+         "price": 1650,
+         "nation": "Gabon",
+         "club": "Chelsea",
+         "pos": "CF",
+         "rate": 79,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 81,
+         "stamina": 72,
+         "control": 77,
+         "stength": 73,
+         "tackle": 40,
+         "passing": 72,
+         "shooting": 85,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "wilfried zaha": {
+      "gameInfo": {
+         "name": "Wilfried",
+         "surname": "Zaha",
+         "price": 1650,
+         "nation": "Ivory Coast",
+         "club": "Crystal Palace",
+         "pos": "LW",
+         "rate": 79,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 84,
+         "stamina": 74,
+         "control": 84,
+         "stength": 67,
+         "tackle": 36,
+         "passing": 71,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kvicha kvaratskhelia": {
+      "gameInfo": {
+         "name": "Kvicha",
+         "surname": "Kvaratskhelia",
+         "price": 1650,
+         "nation": "Georgia",
+         "club": "Napoli",
+         "pos": "LW",
+         "rate": 79,
+         "foot": "B",
+         "height": 183
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 83,
+         "stamina": 72,
+         "control": 84,
+         "stength": 63,
+         "tackle": 42,
+         "passing": 79,
+         "shooting": 79,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "mikel oyarzabal": {
+      "gameInfo": {
+         "name": "Mikel",
+         "surname": "Oyarzabal",
+         "price": 1650,
+         "nation": "Spain",
+         "club": "Real Sociedad",
+         "pos": "LW",
+         "rate": 79,
+         "foot": "L",
+         "height": 181
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 78,
+         "stamina": 75,
+         "control": 80,
+         "stength": 70,
+         "tackle": 48,
+         "passing": 79,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "federico chiesa": {
+      "gameInfo": {
+         "name": "Federico",
+         "surname": "Chiesa",
+         "price": 1650,
+         "nation": "Italy",
+         "club": "Juventus",
+         "pos": "RW",
+         "rate": 79,
+         "foot": "R",
+         "height": 175
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 88,
+         "stamina": 70,
+         "control": 84,
+         "stength": 61,
+         "tackle": 46,
+         "passing": 75,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "dejan kulusevski": {
+      "gameInfo": {
+         "name": "Dejan",
+         "surname": "Kulusevski",
+         "price": 1650,
+         "nation": "Sweden",
+         "club": "Tottenham",
+         "pos": "RW",
+         "rate": 79,
+         "foot": "L",
+         "height": 186
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 76,
+         "stamina": 74,
+         "control": 80,
+         "stength": 68,
+         "tackle": 54,
+         "passing": 78,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kingsley coman": {
+      "gameInfo": {
+         "name": "Kingsley",
+         "surname": "Coman",
+         "price": 1650,
+         "nation": "France",
+         "club": "France",
+         "pos": "RW",
+         "rate": 79,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 90,
+         "acc": 90,
+         "stamina": 65,
+         "control": 86,
+         "stength": 62,
+         "tackle": 38,
+         "passing": 77,
+         "shooting": 74,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "christian pulisic": {
+      "gameInfo": {
+         "name": "Christian",
+         "surname": "Pulisic",
+         "price": 1650,
+         "nation": "USA",
+         "club": "Chelsea",
+         "pos": "RW",
+         "rate": 79,
+         "foot": "R",
+         "height": 177
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 86,
+         "stamina": 72,
+         "control": 81,
+         "stength": 65,
+         "tackle": 43,
+         "passing": 76,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "angel di maria": {
+      "gameInfo": {
+         "name": "Angel",
+         "surname": "Di Maria",
+         "price": 1650,
+         "nation": "Argentina",
+         "club": "Juventus",
+         "pos": "RW",
+         "rate": 79,
+         "foot": "L",
+         "height": 180
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 81,
+         "stamina": 71,
+         "control": 85,
+         "stength": 63,
+         "tackle": 49,
+         "passing": 84,
+         "shooting": 79,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "james maddison": {
+      "gameInfo": {
+         "name": "James",
+         "surname": "Maddison",
+         "price": 1525,
+         "nation": "England",
+         "club": "Leicester",
+         "pos": "AM",
+         "rate": 79,
+         "foot": "R",
+         "height": 175
+      },
+      "stats": {
+         "speed": 73,
+         "acc": 79,
+         "stamina": 76,
+         "control": 82,
+         "stength": 60,
+         "tackle": 63,
+         "passing": 83,
+         "shooting": 81,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "sergio canales": {
+      "gameInfo": {
+         "name": "Sergio",
+         "surname": "Canales",
+         "price": 1525,
+         "nation": "Spain",
+         "club": "Real Betis",
+         "pos": "AM",
+         "rate": 79,
+         "foot": "L",
+         "height": 176
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 81,
+         "stamina": 81,
+         "control": 79,
+         "stength": 61,
+         "tackle": 54,
+         "passing": 82,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "piotr zielinski": {
+      "gameInfo": {
+         "name": "Piotr",
+         "surname": "Zielinski",
+         "price": 1525,
+         "nation": "Poland",
+         "club": "Napoli",
+         "pos": "AM",
+         "rate": 79,
+         "foot": "B",
+         "height": 177
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 79,
+         "stamina": 75,
+         "control": 82,
+         "stength": 60,
+         "tackle": 62,
+         "passing": 83,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "kai havertz": {
+      "gameInfo": {
+         "name": "Kai",
+         "surname": "Havertz",
+         "price": 1525,
+         "nation": "Germany",
+         "club": "Chelsea",
+         "pos": "AM",
+         "rate": 79,
+         "foot": "L",
+         "height": 190
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 77,
+         "stamina": 72,
+         "control": 82,
+         "stength": 77,
+         "tackle": 39,
+         "passing": 77,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "thomas lemar": {
+      "gameInfo": {
+         "name": "Thomas",
+         "surname": "Lemar",
+         "price": 1525,
+         "nation": "France",
+         "club": "Atletico Madrid",
+         "pos": "AM",
+         "rate": 79,
+         "foot": "L",
+         "height": 171
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 83,
+         "stamina": 69,
+         "control": 82,
+         "stength": 69,
+         "tackle": 51,
+         "passing": 77,
+         "shooting": 74,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "koke": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Koke",
+         "price": 1525,
+         "nation": "Spain",
+         "club": "Atletico Madrid",
+         "pos": "CM",
+         "rate": 79,
+         "foot": "R",
+         "height": 176
+      },
+      "stats": {
+         "speed": 71,
+         "acc": 72,
+         "stamina": 82,
+         "control": 80,
+         "stength": 72,
+         "tackle": 73,
+         "passing": 80,
+         "shooting": 74,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "mateo kovacic": {
+      "gameInfo": {
+         "name": "Mateo",
+         "surname": "Kovacic",
+         "price": 1525,
+         "nation": "Croatia",
+         "club": "Chelsea",
+         "pos": "CM",
+         "rate": 79,
+         "foot": "R",
+         "height": 176
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 78,
+         "stamina": 74,
+         "control": 85,
+         "stength": 63,
+         "tackle": 68,
+         "passing": 82,
+         "shooting": 73,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "mikel merino": {
+      "gameInfo": {
+         "name": "Mikel",
+         "surname": "Merino",
+         "price": 1525,
+         "nation": "Spain",
+         "club": "Real Sociedad",
+         "pos": "CM",
+         "rate": 79,
+         "foot": "L",
+         "height": 189
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 69,
+         "stamina": 83,
+         "control": 77,
+         "stength": 82,
+         "tackle": 71,
+         "passing": 79,
+         "shooting": 69,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "sandro tonali": {
+      "gameInfo": {
+         "name": "Sandro",
+         "surname": "Tonali",
+         "price": 1525,
+         "nation": "Italy",
+         "club": "AC Milan",
+         "pos": "DM",
+         "rate": 79,
+         "foot": "R",
+         "height": 181
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 76,
+         "stamina": 80,
+         "control": 76,
+         "stength": 71,
+         "tackle": 71,
+         "passing": 80,
+         "shooting": 70,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "declan rice": {
+      "gameInfo": {
+         "name": "Declan",
+         "surname": "Rice",
+         "price": 1525,
+         "nation": "England",
+         "club": "West Ham",
+         "pos": "DM",
+         "rate": 79,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 69,
+         "stamina": 88,
+         "control": 74,
+         "stength": 78,
+         "tackle": 80,
+         "passing": 79,
+         "shooting": 66,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "bruno guimaraes": {
+      "gameInfo": {
+         "name": "Bruno",
+         "surname": "Guimaraes",
+         "price": 1525,
+         "nation": "Brazil",
+         "club": "Newcastle",
+         "pos": "DM",
+         "rate": 79,
+         "foot": "R",
+         "height": 182
+      },
+      "stats": {
+         "speed": 71,
+         "acc": 69,
+         "stamina": 82,
+         "control": 79,
+         "stength": 72,
+         "tackle": 72,
+         "passing": 81,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "aurelien tchouameni": {
+      "gameInfo": {
+         "name": "Aurelien",
+         "surname": "Tchouameni",
+         "price": 1525,
+         "nation": "France",
+         "club": "Real Madrid",
+         "pos": "DM",
+         "rate": 79,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 68,
+         "stamina": 80,
+         "control": 73,
+         "stength": 81,
+         "tackle": 79,
+         "passing": 82,
+         "shooting": 65,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ismael bennacer": {
+      "gameInfo": {
+         "name": "Ismael",
+         "surname": "Bennacer",
+         "price": 1525,
+         "nation": "Algeria",
+         "club": "AC MIlan",
+         "pos": "DM",
+         "rate": 79,
+         "foot": "L",
+         "height": 175
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 76,
+         "stamina": 79,
+         "control": 80,
+         "stength": 67,
+         "tackle": 79,
+         "passing": 81,
+         "shooting": 63,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "filip kostic": {
+      "gameInfo": {
+         "name": "Filip",
+         "surname": "Kostic",
+         "price": 1525,
+         "nation": "Serbia",
+         "club": "Juventus",
+         "pos": "LM",
+         "rate": 79,
+         "foot": "L",
+         "height": 184
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 83,
+         "stamina": 80,
+         "control": 78,
+         "stength": 61,
+         "tackle": 63,
+         "passing": 81,
+         "shooting": 67,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jose maria gimenez": {
+      "gameInfo": {
+         "name": "Jose Maria",
+         "surname": "Gimenez",
+         "price": 1355,
+         "nation": "Uruguay",
+         "club": "Atletico Madrid",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 70,
+         "stamina": 79,
+         "control": 72,
+         "stength": 86,
+         "tackle": 86,
+         "passing": 76,
+         "shooting": 61,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "lucas hernandez": {
+      "gameInfo": {
+         "name": "Lucas",
+         "surname": "Hernandez",
+         "price": 1355,
+         "nation": "France",
+         "club": "France",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "L",
+         "height": 184
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 78,
+         "stamina": 77,
+         "control": 73,
+         "stength": 81,
+         "tackle": 84,
+         "passing": 73,
+         "shooting": 53,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "cristian romero": {
+      "gameInfo": {
+         "name": "Cristian",
+         "surname": "Romero",
+         "price": 1355,
+         "nation": "Argentina",
+         "club": "Tottenham",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 73,
+         "acc": 73,
+         "stamina": 77,
+         "control": 73,
+         "stength": 83,
+         "tackle": 84,
+         "passing": 75,
+         "shooting": 54,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "sergio ramos": {
+      "gameInfo": {
+         "name": "Sergio",
+         "surname": "Ramos",
+         "price": 1355,
+         "nation": "Spain",
+         "club": "Paris SG",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "R",
+         "height": 184
+      },
+      "stats": {
+         "speed": 68,
+         "acc": 66,
+         "stamina": 72,
+         "control": 74,
+         "stength": 84,
+         "tackle": 84,
+         "passing": 79,
+         "shooting": 69,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "pau torres": {
+      "gameInfo": {
+         "name": "Pau",
+         "surname": "Torres",
+         "price": 1355,
+         "nation": "Spain",
+         "club": "Villareal",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "L",
+         "height": 191
+      },
+      "stats": {
+         "speed": 72,
+         "acc": 71,
+         "stamina": 77,
+         "control": 77,
+         "stength": 83,
+         "tackle": 81,
+         "passing": 74,
+         "shooting": 58,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "william saliba": {
+      "gameInfo": {
+         "name": "William",
+         "surname": "Saliba",
+         "price": 1355,
+         "nation": "France",
+         "club": "Arsenal",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "R",
+         "height": 192
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 74,
+         "stamina": 79,
+         "control": 75,
+         "stength": 81,
+         "tackle": 81,
+         "passing": 79,
+         "shooting": 48,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ronald araujo": {
+      "gameInfo": {
+         "name": "Ronald",
+         "surname": "Araujo",
+         "price": 1355,
+         "nation": "Uruguay",
+         "club": "Barcelona",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "R",
+         "height": 191
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 70,
+         "stamina": 75,
+         "control": 71,
+         "stength": 85,
+         "tackle": 82,
+         "passing": 76,
+         "shooting": 55,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "lisandro martinez": {
+      "gameInfo": {
+         "name": "Lisandro",
+         "surname": "Martinez",
+         "price": 1355,
+         "nation": "Argentina",
+         "club": "Man United",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "L",
+         "height": 175
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 73,
+         "stamina": 81,
+         "control": 73,
+         "stength": 80,
+         "tackle": 85,
+         "passing": 77,
+         "shooting": 52,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "dayot upamecano": {
+      "gameInfo": {
+         "name": "Dayot",
+         "surname": "Upamecano",
+         "price": 1355,
+         "nation": "France",
+         "club": "France",
+         "pos": "CB",
+         "rate": 79,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 73,
+         "stamina": 76,
+         "control": 70,
+         "stength": 83,
+         "tackle": 79,
+         "passing": 75,
+         "shooting": 52,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "alejandro grimaldo": {
+      "gameInfo": {
+         "name": "Alejandro",
+         "surname": "Grimaldo",
+         "price": 1355,
+         "nation": "Spain",
+         "club": "Benfica",
+         "pos": "LB",
+         "rate": 79,
+         "foot": "L",
+         "height": 171
+      },
+      "stats": {
+         "speed": 82,
+         "acc": 82,
+         "stamina": 82,
+         "control": 76,
+         "stength": 60,
+         "tackle": 73,
+         "passing": 80,
+         "shooting": 60,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marcos acuna": {
+      "gameInfo": {
+         "name": "Marcos",
+         "surname": "Acuna",
+         "price": 1355,
+         "nation": "Argentina",
+         "club": "Sevilla",
+         "pos": "LB",
+         "rate": 79,
+         "foot": "L",
+         "height": 172
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 76,
+         "stamina": 74,
+         "control": 76,
+         "stength": 72,
+         "tackle": 75,
+         "passing": 80,
+         "shooting": 67,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "denzel dumfries": {
+      "gameInfo": {
+         "name": "Denzel",
+         "surname": "Dumfries",
+         "price": 1355,
+         "nation": "Netherlands",
+         "club": "Inter",
+         "pos": "RB",
+         "rate": 79,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 84,
+         "acc": 81,
+         "stamina": 82,
+         "control": 69,
+         "stength": 82,
+         "tackle": 70,
+         "passing": 72,
+         "shooting": 63,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "koen casteels": {
+      "gameInfo": {
+         "name": "Koen",
+         "surname": "Casteels",
+         "price": 1225,
+         "nation": "Belgium",
+         "club": "Belgium",
+         "pos": "GK",
+         "rate": 79,
+         "foot": "R",
+         "height": 196
+      },
+      "stats": {
+         "speed": 57,
+         "acc": 56,
+         "stamina": null,
+         "control": 59,
+         "stength": 60,
+         "tackle": 42,
+         "passing": 65,
+         "shooting": null,
+         "gk_handling": 73,
+         "gk_reaction": 77
+      }
+   },
+   "hugo lloris": {
+      "gameInfo": {
+         "name": "Hugo",
+         "surname": "Lloris",
+         "price": 1225,
+         "nation": "France",
+         "club": "Tottenham",
+         "pos": "GK",
+         "rate": 79,
+         "foot": "L",
+         "height": 188
+      },
+      "stats": {
+         "speed": 64,
+         "acc": 65,
+         "stamina": null,
+         "control": 60,
+         "stength": 61,
+         "tackle": 54,
+         "passing": 61,
+         "shooting": null,
+         "gk_handling": 73,
+         "gk_reaction": 77
+      }
+   },
+   "inaki williams": {
+      "gameInfo": {
+         "name": "Inaki",
+         "surname": "Williams",
+         "price": 1525,
+         "nation": "Ghana",
+         "club": "Athletic Bilbao",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 89,
+         "acc": 86,
+         "stamina": 86,
+         "control": 73,
+         "stength": 75,
+         "tackle": 37,
+         "passing": 66,
+         "shooting": 72,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "luis suarez": {
+      "gameInfo": {
+         "name": "Luis",
+         "surname": "Suarez",
+         "price": 1525,
+         "nation": "Uruguay",
+         "club": "Uruguay",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "R",
+         "height": 182
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 71,
+         "stamina": 75,
+         "control": 81,
+         "stength": 73,
+         "tackle": 53,
+         "passing": 74,
+         "shooting": 87,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "patrik schick": {
+      "gameInfo": {
+         "name": "Patrik",
+         "surname": "Schick",
+         "price": 1525,
+         "nation": "Czech Republic",
+         "club": "Czech Republic",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "L",
+         "height": 187
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 76,
+         "stamina": 76,
+         "control": 79,
+         "stength": 81,
+         "tackle": 37,
+         "passing": 70,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "tammy abraham": {
+      "gameInfo": {
+         "name": "Tammy",
+         "surname": "Abraham",
+         "price": 1525,
+         "nation": "England",
+         "club": "Roma",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "R",
+         "height": 190
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 80,
+         "stamina": 75,
+         "control": 74,
+         "stength": 77,
+         "tackle": 37,
+         "passing": 75,
+         "shooting": 83,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "darwin nunez": {
+      "gameInfo": {
+         "name": "Darwin",
+         "surname": "Nunez",
+         "price": 1525,
+         "nation": "Uruguay",
+         "club": "Liverpool",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 88,
+         "acc": 82,
+         "stamina": 81,
+         "control": 74,
+         "stength": 81,
+         "tackle": 26,
+         "passing": 67,
+         "shooting": 81,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "zlatan ibrahimovic": {
+      "gameInfo": {
+         "name": "Zlatan",
+         "surname": "Ibrahimovic",
+         "price": 1525,
+         "nation": "Sweden",
+         "club": "AC Milan",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "B",
+         "height": 195
+      },
+      "stats": {
+         "speed": 64,
+         "acc": 64,
+         "stamina": 65,
+         "control": 82,
+         "stength": 90,
+         "tackle": 49,
+         "passing": 73,
+         "shooting": 86,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marcus thuram": {
+      "gameInfo": {
+         "name": "Marcus",
+         "surname": "Thuram",
+         "price": 1525,
+         "nation": "France",
+         "club": "France",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "R",
+         "height": 192
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 75,
+         "stamina": 72,
+         "control": 79,
+         "stength": 80,
+         "tackle": 38,
+         "passing": 70,
+         "shooting": 79,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "randal kolo muani": {
+      "gameInfo": {
+         "name": "Randal",
+         "surname": "Kolo Muani",
+         "price": 1525,
+         "nation": "France",
+         "club": "France",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 81,
+         "stamina": 74,
+         "control": 80,
+         "stength": 70,
+         "tackle": 39,
+         "passing": 74,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "iago aspas": {
+      "gameInfo": {
+         "name": "Iago",
+         "surname": "Aspas",
+         "price": 1525,
+         "nation": "Spain",
+         "club": "Celta Vigo",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "L",
+         "height": 176
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 78,
+         "stamina": 80,
+         "control": 82,
+         "stength": 62,
+         "tackle": 45,
+         "passing": 82,
+         "shooting": 85,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "edin dzeko": {
+      "gameInfo": {
+         "name": "Edin",
+         "surname": "Dzeko",
+         "price": 1525,
+         "nation": "Bosnia & Herzegovina",
+         "club": "Inter",
+         "pos": "CF",
+         "rate": 78,
+         "foot": "R",
+         "height": 193
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 65,
+         "stamina": 77,
+         "control": 81,
+         "stength": 86,
+         "tackle": 49,
+         "passing": 73,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "martin terrier": {
+      "gameInfo": {
+         "name": "Martin",
+         "surname": "Terrier",
+         "price": 1525,
+         "nation": "France",
+         "club": "Rennes",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 184
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 80,
+         "stamina": 74,
+         "control": 75,
+         "stength": 72,
+         "tackle": 49,
+         "passing": 72,
+         "shooting": 83,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jadon sancho": {
+      "gameInfo": {
+         "name": "Jadon",
+         "surname": "Sancho",
+         "price": 1525,
+         "nation": "England",
+         "club": "Man United",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 85,
+         "stamina": 70,
+         "control": 85,
+         "stength": 58,
+         "tackle": 46,
+         "passing": 80,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ferran torres": {
+      "gameInfo": {
+         "name": "Ferran",
+         "surname": "Torres",
+         "price": 1525,
+         "nation": "Spain",
+         "club": "Barcelona",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 184
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 82,
+         "stamina": 74,
+         "control": 80,
+         "stength": 61,
+         "tackle": 50,
+         "passing": 77,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "cody gakpo": {
+      "gameInfo": {
+         "name": "Cody",
+         "surname": "Gakpo",
+         "price": 1525,
+         "nation": "Netherlands",
+         "club": "Liverpool",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 189
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 83,
+         "stamina": 75,
+         "control": 79,
+         "stength": 68,
+         "tackle": 39,
+         "passing": 77,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "lorenzo insigne": {
+      "gameInfo": {
+         "name": "Lorenzo",
+         "surname": "Insigne",
+         "price": 1525,
+         "nation": "Italy",
+         "club": "Italy",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 163
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 84,
+         "stamina": 74,
+         "control": 85,
+         "stength": 54,
+         "tackle": 39,
+         "passing": 78,
+         "shooting": 79,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ansu fati": {
+      "gameInfo": {
+         "name": "Ansu",
+         "surname": "Fati",
+         "price": 1525,
+         "nation": "Spain",
+         "club": "Barcelona",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 89,
+         "acc": 88,
+         "stamina": 62,
+         "control": 82,
+         "stength": 53,
+         "tackle": 56,
+         "passing": 75,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "allan saint-maximin": {
+      "gameInfo": {
+         "name": "Allan",
+         "surname": "Saint-Maximin",
+         "price": 1525,
+         "nation": "France",
+         "club": "Newcastle",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 173
+      },
+      "stats": {
+         "speed": 86,
+         "acc": 88,
+         "stamina": 70,
+         "control": 90,
+         "stength": 67,
+         "tackle": 20,
+         "passing": 72,
+         "shooting": 70,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "moussa diaby": {
+      "gameInfo": {
+         "name": "Moussa",
+         "surname": "Diaby",
+         "price": 1525,
+         "nation": "France",
+         "club": "France",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "L",
+         "height": 170
+      },
+      "stats": {
+         "speed": 90,
+         "acc": 90,
+         "stamina": 80,
+         "control": 83,
+         "stength": 52,
+         "tackle": 26,
+         "passing": 79,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "gabriel martinelli": {
+      "gameInfo": {
+         "name": "Gabriel",
+         "surname": "Martinelli",
+         "price": 1525,
+         "nation": "Brazil",
+         "club": "Arsenal",
+         "pos": "LW",
+         "rate": 78,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 86,
+         "stamina": 75,
+         "control": 82,
+         "stength": 62,
+         "tackle": 36,
+         "passing": 75,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "raphinha": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Raphinha",
+         "price": 1525,
+         "nation": "Brazil",
+         "club": "Barcelona",
+         "pos": "RW",
+         "rate": 78,
+         "foot": "L",
+         "height": 176
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 84,
+         "stamina": 75,
+         "control": 82,
+         "stength": 64,
+         "tackle": 50,
+         "passing": 73,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "hirving lozano": {
+      "gameInfo": {
+         "name": "Hirving",
+         "surname": "Lozano",
+         "price": 1525,
+         "nation": "Mexico",
+         "club": "Napoli",
+         "pos": "RW",
+         "rate": 78,
+         "foot": "R",
+         "height": 177
+      },
+      "stats": {
+         "speed": 86,
+         "acc": 88,
+         "stamina": 72,
+         "control": 78,
+         "stength": 62,
+         "tackle": 48,
+         "passing": 71,
+         "shooting": 76,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "marco asensio": {
+      "gameInfo": {
+         "name": "Marco",
+         "surname": "Asensio",
+         "price": 1525,
+         "nation": "Spain",
+         "club": "Real Madrid",
+         "pos": "RW",
+         "rate": 78,
+         "foot": "L",
+         "height": 182
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 81,
+         "stamina": 71,
+         "control": 82,
+         "stength": 62,
+         "tackle": 45,
+         "passing": 79,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "rodrygo": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Rodrygo",
+         "price": 1525,
+         "nation": "Brazil",
+         "club": "Real Madrid",
+         "pos": "RW",
+         "rate": 78,
+         "foot": "R",
+         "height": 174
+      },
+      "stats": {
+         "speed": 83,
+         "acc": 85,
+         "stamina": 77,
+         "control": 82,
+         "stength": 67,
+         "tackle": 35,
+         "passing": 77,
+         "shooting": 74,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "antony": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Antony",
+         "price": 1525,
+         "nation": "Brazil",
+         "club": "Man United",
+         "pos": "RW",
+         "rate": 78,
+         "foot": "L",
+         "height": 174
+      },
+      "stats": {
+         "speed": 85,
+         "acc": 87,
+         "stamina": 73,
+         "control": 83,
+         "stength": 56,
+         "tackle": 52,
+         "passing": 72,
+         "shooting": 74,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "rafa silva": {
+      "gameInfo": {
+         "name": "Rafa",
+         "surname": "Silva",
+         "price": 1525,
+         "nation": "Portugal",
+         "club": "Benfica",
+         "pos": "SS",
+         "rate": 78,
+         "foot": "L",
+         "height": 171
+      },
+      "stats": {
+         "speed": 87,
+         "acc": 90,
+         "stamina": 75,
+         "control": 76,
+         "stength": 57,
+         "tackle": 49,
+         "passing": 79,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "joao felix": {
+      "gameInfo": {
+         "name": "Joao",
+         "surname": "Felix",
+         "price": 1525,
+         "nation": "Portugal",
+         "club": "Chelsea",
+         "pos": "SS",
+         "rate": 78,
+         "foot": "B",
+         "height": 180
+      },
+      "stats": {
+         "speed": 80,
+         "acc": 83,
+         "stamina": 70,
+         "control": 82,
+         "stength": 65,
+         "tackle": 48,
+         "passing": 75,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "lucas paqueta": {
+      "gameInfo": {
+         "name": "Lucas",
+         "surname": "Paqueta",
+         "price": 1410,
+         "nation": "Brazil",
+         "club": "West Ham",
+         "pos": "AM",
+         "rate": 78,
+         "foot": "L",
+         "height": 183
+      },
+      "stats": {
+         "speed": 73,
+         "acc": 75,
+         "stamina": 77,
+         "control": 82,
+         "stength": 66,
+         "tackle": 63,
+         "passing": 77,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "nabil fekir": {
+      "gameInfo": {
+         "name": "Nabil",
+         "surname": "Fekir",
+         "price": 1410,
+         "nation": "France",
+         "club": "Real Betis",
+         "pos": "AM",
+         "rate": 78,
+         "foot": "L",
+         "height": 173
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 83,
+         "stamina": 75,
+         "control": 82,
+         "stength": 65,
+         "tackle": 45,
+         "passing": 81,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "iker muniain": {
+      "gameInfo": {
+         "name": "Iker",
+         "surname": "Muniain",
+         "price": 1410,
+         "nation": "Spain",
+         "club": "Athletic Bilbao",
+         "pos": "AM",
+         "rate": 78,
+         "foot": "R",
+         "height": 169
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 82,
+         "stamina": 76,
+         "control": 83,
+         "stength": 59,
+         "tackle": 49,
+         "passing": 82,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "rodrigo de paul": {
+      "gameInfo": {
+         "name": "Rodrigo",
+         "surname": "De Paul",
+         "price": 1410,
+         "nation": "Argentina",
+         "club": "Atletico Madrid",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "R",
+         "height": 181
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 77,
+         "stamina": 80,
+         "control": 77,
+         "stength": 63,
+         "tackle": 71,
+         "passing": 79,
+         "shooting": 71,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "youri tielemans": {
+      "gameInfo": {
+         "name": "Youri",
+         "surname": "Tielemans",
+         "price": 1410,
+         "nation": "Belgium",
+         "club": "Leicester",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "R",
+         "height": 176
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 69,
+         "stamina": 76,
+         "control": 81,
+         "stength": 71,
+         "tackle": 66,
+         "passing": 83,
+         "shooting": 78,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "andre zambo anguissa": {
+      "gameInfo": {
+         "name": "Andre Zambo",
+         "surname": "Anguissa",
+         "price": 1410,
+         "nation": "Cameroon",
+         "club": "Napoli",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "R",
+         "height": 184
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 73,
+         "stamina": 79,
+         "control": 73,
+         "stength": 79,
+         "tackle": 73,
+         "passing": 76,
+         "shooting": 62,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "fabian ruiz": {
+      "gameInfo": {
+         "name": "Fabian",
+         "surname": "Ruiz",
+         "price": 1410,
+         "nation": "Spain",
+         "club": "Paris SG",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "L",
+         "height": 189
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 67,
+         "stamina": 83,
+         "control": 81,
+         "stength": 67,
+         "tackle": 71,
+         "passing": 85,
+         "shooting": 79,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "rodrigo bentancur": {
+      "gameInfo": {
+         "name": "Rodrigo",
+         "surname": "Bentancur",
+         "price": 1410,
+         "nation": "Uruguay",
+         "club": "Tottenham",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 68,
+         "stamina": 79,
+         "control": 80,
+         "stength": 72,
+         "tackle": 72,
+         "passing": 83,
+         "shooting": 61,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "adrien rabiot": {
+      "gameInfo": {
+         "name": "Adrien",
+         "surname": "Rabiot",
+         "price": 1410,
+         "nation": "France",
+         "club": "Juventus",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "L",
+         "height": 188
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 70,
+         "stamina": 80,
+         "control": 76,
+         "stength": 76,
+         "tackle": 72,
+         "passing": 78,
+         "shooting": 66,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "daniel parejo": {
+      "gameInfo": {
+         "name": "Daniel",
+         "surname": "Parejo",
+         "price": 1410,
+         "nation": "Spain",
+         "club": "Villareal",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "R",
+         "height": 182
+      },
+      "stats": {
+         "speed": 65,
+         "acc": 66,
+         "stamina": 85,
+         "control": 84,
+         "stength": 65,
+         "tackle": 64,
+         "passing": 88,
+         "shooting": 75,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "pierre-emile hojbjerg": {
+      "gameInfo": {
+         "name": "Pierre-Emile",
+         "surname": "Hojbjerg",
+         "price": 1410,
+         "nation": "Denmark",
+         "club": "Tottenham",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "R",
+         "height": 185
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 64,
+         "stamina": 85,
+         "control": 73,
+         "stength": 77,
+         "tackle": 82,
+         "passing": 81,
+         "shooting": 70,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "seko fofana": {
+      "gameInfo": {
+         "name": "Seko",
+         "surname": "Fofana",
+         "price": 1410,
+         "nation": "Ivory Coast",
+         "club": "RCD Lens",
+         "pos": "CM",
+         "rate": 78,
+         "foot": "R",
+         "height": 183
+      },
+      "stats": {
+         "speed": 71,
+         "acc": 71,
+         "stamina": 80,
+         "control": 73,
+         "stength": 79,
+         "tackle": 66,
+         "passing": 75,
+         "shooting": 73,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "manuel locatelli": {
+      "gameInfo": {
+         "name": "Manuel",
+         "surname": "Locatelli",
+         "price": 1410,
+         "nation": "Italy",
+         "club": "Juventus",
+         "pos": "DM",
+         "rate": 78,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 63,
+         "stamina": 76,
+         "control": 79,
+         "stength": 79,
+         "tackle": 77,
+         "passing": 79,
+         "shooting": 70,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "danilo pereira": {
+      "gameInfo": {
+         "name": "Danilo",
+         "surname": "Pereira",
+         "price": 1410,
+         "nation": "Portugal",
+         "club": "Paris SG",
+         "pos": "DM",
+         "rate": 78,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 65,
+         "stamina": 80,
+         "control": 71,
+         "stength": 83,
+         "tackle": 80,
+         "passing": 80,
+         "shooting": 69,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "ruben neves": {
+      "gameInfo": {
+         "name": "Ruben",
+         "surname": "Neves",
+         "price": 1410,
+         "nation": "Portugal",
+         "club": "Wolves",
+         "pos": "DM",
+         "rate": 78,
+         "foot": "R",
+         "height": 180
+      },
+      "stats": {
+         "speed": 65,
+         "acc": 65,
+         "stamina": 79,
+         "control": 77,
+         "stength": 73,
+         "tackle": 74,
+         "passing": 82,
+         "shooting": 77,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "dusan tadic": {
+      "gameInfo": {
+         "name": "Dusan",
+         "surname": "Tadic",
+         "price": 1410,
+         "nation": "Serbia",
+         "club": "Ajax",
+         "pos": "LM",
+         "rate": 78,
+         "foot": "L",
+         "height": 181
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 69,
+         "stamina": 83,
+         "control": 79,
+         "stength": 77,
+         "tackle": 45,
+         "passing": 83,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "jonathan clauss": {
+      "gameInfo": {
+         "name": "Jonathan",
+         "surname": "Clauss",
+         "price": 1410,
+         "nation": "France",
+         "club": "Marseille",
+         "pos": "RM",
+         "rate": 78,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 81,
+         "acc": 81,
+         "stamina": 82,
+         "control": 70,
+         "stength": 65,
+         "tackle": 75,
+         "passing": 79,
+         "shooting": 61,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "otavio": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Otavio",
+         "price": 1410,
+         "nation": "Portugal",
+         "club": "Porto",
+         "pos": "RM",
+         "rate": 78,
+         "foot": "R",
+         "height": 172
+      },
+      "stats": {
+         "speed": 74,
+         "acc": 78,
+         "stamina": 80,
+         "control": 79,
+         "stength": 62,
+         "tackle": 74,
+         "passing": 78,
+         "shooting": 67,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "cesar azpilicueta": {
+      "gameInfo": {
+         "name": "Cesar",
+         "surname": "Azpilicueta",
+         "price": 1255,
+         "nation": "Spain",
+         "club": "Chelsea",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "R",
+         "height": 178
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 69,
+         "stamina": 77,
+         "control": 75,
+         "stength": 75,
+         "tackle": 84,
+         "passing": 77,
+         "shooting": 65,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "alessio romagnoli": {
+      "gameInfo": {
+         "name": "Alessio",
+         "surname": "Romagnoli",
+         "price": 1255,
+         "nation": "Italy",
+         "club": "Lazio",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "L",
+         "height": 185
+      },
+      "stats": {
+         "speed": 67,
+         "acc": 71,
+         "stamina": 74,
+         "control": 73,
+         "stength": 84,
+         "tackle": 81,
+         "passing": 73,
+         "shooting": 64,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "leonardo bonucci": {
+      "gameInfo": {
+         "name": "Leonardo",
+         "surname": "Bonucci",
+         "price": 1255,
+         "nation": "Italy",
+         "club": "Juventus",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "R",
+         "height": 190
+      },
+      "stats": {
+         "speed": 67,
+         "acc": 64,
+         "stamina": 78,
+         "control": 74,
+         "stength": 84,
+         "tackle": 84,
+         "passing": 78,
+         "shooting": 67,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "andreas christensen": {
+      "gameInfo": {
+         "name": "Andreas",
+         "surname": "Christensen",
+         "price": 1255,
+         "nation": "Denmark",
+         "club": "Barcelona",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 73,
+         "acc": 67,
+         "stamina": 79,
+         "control": 75,
+         "stength": 82,
+         "tackle": 84,
+         "passing": 80,
+         "shooting": 46,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "bremer": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Bremer",
+         "price": 1255,
+         "nation": "Brazil",
+         "club": "Juventus",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "R",
+         "height": 188
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 71,
+         "stamina": 78,
+         "control": 69,
+         "stength": 84,
+         "tackle": 83,
+         "passing": 72,
+         "shooting": 55,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "min-jae kim": {
+      "gameInfo": {
+         "name": "Min-Jae",
+         "surname": "Kim",
+         "price": 1255,
+         "nation": "South Korea",
+         "club": "Napoli",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "R",
+         "height": 190
+      },
+      "stats": {
+         "speed": 79,
+         "acc": 73,
+         "stamina": 77,
+         "control": 69,
+         "stength": 85,
+         "tackle": 82,
+         "passing": 75,
+         "shooting": 44,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "manuel akanji": {
+      "gameInfo": {
+         "name": "Manuel",
+         "surname": "Akanji",
+         "price": 1255,
+         "nation": "Switzerland",
+         "club": "Man City",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "R",
+         "height": 187
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 75,
+         "stamina": 78,
+         "control": 73,
+         "stength": 81,
+         "tackle": 79,
+         "passing": 77,
+         "shooting": 45,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "alessandro bastoni": {
+      "gameInfo": {
+         "name": "Alessandro",
+         "surname": "Bastoni",
+         "price": 1255,
+         "nation": "Italy",
+         "club": "Inter",
+         "pos": "CB",
+         "rate": 78,
+         "foot": "L",
+         "height": 190
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 68,
+         "stamina": 79,
+         "control": 73,
+         "stength": 82,
+         "tackle": 82,
+         "passing": 75,
+         "shooting": 55,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "leonardo spinazzola": {
+      "gameInfo": {
+         "name": "Leonardo",
+         "surname": "Spinazzola",
+         "price": 1255,
+         "nation": "Italy",
+         "club": "Roma",
+         "pos": "LB",
+         "rate": 78,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 85,
+         "acc": 82,
+         "stamina": 75,
+         "control": 78,
+         "stength": 64,
+         "tackle": 68,
+         "passing": 76,
+         "shooting": 60,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "alex sandro": {
+      "gameInfo": {
+         "name": "Alex",
+         "surname": "Sandro",
+         "price": 1255,
+         "nation": "Brazil",
+         "club": "Juventus",
+         "pos": "LB",
+         "rate": 78,
+         "foot": "L",
+         "height": 181
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 78,
+         "stamina": 75,
+         "control": 75,
+         "stength": 76,
+         "tackle": 77,
+         "passing": 76,
+         "shooting": 54,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "oleksandr zinchenko": {
+      "gameInfo": {
+         "name": "Oleksandr",
+         "surname": "Zinchenko",
+         "price": 1255,
+         "nation": "Ukraine",
+         "club": "Arsenal",
+         "pos": "LB",
+         "rate": 78,
+         "foot": "L",
+         "height": 175
+      },
+      "stats": {
+         "speed": 70,
+         "acc": 72,
+         "stamina": 78,
+         "control": 77,
+         "stength": 74,
+         "tackle": 73,
+         "passing": 79,
+         "shooting": 64,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "daniel carvajal": {
+      "gameInfo": {
+         "name": "Daniel",
+         "surname": "Carvajal",
+         "price": 1255,
+         "nation": "Spain",
+         "club": "Real Madrid",
+         "pos": "RB",
+         "rate": 78,
+         "foot": "R",
+         "height": 173
+      },
+      "stats": {
+         "speed": 77,
+         "acc": 80,
+         "stamina": 74,
+         "control": 75,
+         "stength": 75,
+         "tackle": 79,
+         "passing": 75,
+         "shooting": 52,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "benjamin pavard": {
+      "gameInfo": {
+         "name": "Benjamin",
+         "surname": "Pavard",
+         "price": 1255,
+         "nation": "France",
+         "club": "France",
+         "pos": "RB",
+         "rate": 78,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 69,
+         "acc": 67,
+         "stamina": 78,
+         "control": 74,
+         "stength": 81,
+         "tackle": 83,
+         "passing": 76,
+         "shooting": 61,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "andre onana": {
+      "gameInfo": {
+         "name": "Andre",
+         "surname": "Onana",
+         "price": 1135,
+         "nation": "Cameroon",
+         "club": "Inter Milan",
+         "pos": "GK",
+         "rate": 78,
+         "foot": "R",
+         "height": 190
+      },
+      "stats": {
+         "speed": 65,
+         "acc": 67,
+         "stamina": null,
+         "control": 59,
+         "stength": 60,
+         "tackle": 45,
+         "passing": 61,
+         "shooting": null,
+         "gk_handling": 73,
+         "gk_reaction": 77
+      }
+   },
+   "geronimo rulli": {
+      "gameInfo": {
+         "name": "Geronimo",
+         "surname": "Rulli",
+         "price": 1135,
+         "nation": "Argentina",
+         "club": "Villareal",
+         "pos": "GK",
+         "rate": 78,
+         "foot": "R",
+         "height": 189
+      },
+      "stats": {
+         "speed": 64,
+         "acc": 65,
+         "stamina": null,
+         "control": 54,
+         "stength": 60,
+         "tackle": 45,
+         "passing": 59,
+         "shooting": null,
+         "gk_handling": 71,
+         "gk_reaction": 77
+      }
+   },
+   "jordan pickford": {
+      "gameInfo": {
+         "name": "Jordan",
+         "surname": "Pickford",
+         "price": 1135,
+         "nation": "England",
+         "club": "Everton",
+         "pos": "GK",
+         "rate": 78,
+         "foot": "L",
+         "height": 185
+      },
+      "stats": {
+         "speed": 61,
+         "acc": 65,
+         "stamina": null,
+         "control": 59,
+         "stength": 47,
+         "tackle": 49,
+         "passing": 65,
+         "shooting": null,
+         "gk_handling": 72,
+         "gk_reaction": 78
+      }
+   },
+   "wojciech szczesny": {
+      "gameInfo": {
+         "name": "Wojciech",
+         "surname": "Szczesny",
+         "price": 1135,
+         "nation": "Poland",
+         "club": "Juventus",
+         "pos": "GK",
+         "rate": 78,
+         "foot": "R",
+         "height": 195
+      },
+      "stats": {
+         "speed": 57,
+         "acc": 57,
+         "stamina": null,
+         "control": 53,
+         "stength": 60,
+         "tackle": 44,
+         "passing": 57,
+         "shooting": null,
+         "gk_handling": 74,
+         "gk_reaction": 77
+      }
+   },
+   "kepa": {
+      "gameInfo": {
+         "name": null,
+         "surname": "Kepa",
+         "price": 1135,
+         "nation": "Spain",
+         "club": "Chelsea",
+         "pos": "GK",
+         "rate": 78,
+         "foot": "R",
+         "height": 186
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 63,
+         "stamina": null,
+         "control": 57,
+         "stength": 53,
+         "tackle": 49,
+         "passing": 60,
+         "shooting": null,
+         "gk_handling": 72,
+         "gk_reaction": 77
+      }
+   },
+   "olivier giroud": {
+      "gameInfo": {
+         "name": "Olivier",
+         "surname": "Giroud",
+         "price": 1410,
+         "nation": "France",
+         "club": "AC Milan",
+         "pos": "CF",
+         "rate": 77,
+         "foot": "L",
+         "height": 193
+      },
+      "stats": {
+         "speed": 66,
+         "acc": 63,
+         "stamina": 78,
+         "control": 80,
+         "stength": 88,
+         "tackle": 43,
+         "passing": 75,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "andre silva": {
+      "gameInfo": {
+         "name": "Andre",
+         "surname": "Silva",
+         "price": 1410,
+         "nation": "Portugal",
+         "club": "Portugal",
+         "pos": "CF",
+         "rate": 77,
+         "foot": "R",
+         "height": 182
+      },
+      "stats": {
+         "speed": 76,
+         "acc": 76,
+         "stamina": 74,
+         "control": 79,
+         "stength": 74,
+         "tackle": 39,
+         "passing": 73,
+         "shooting": 84,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   },
+   "alvaro morata": {
+      "gameInfo": {
+         "name": "Alvaro",
+         "surname": "Morata",
+         "price": 1410,
+         "nation": "Spain",
+         "club": "Atletico Madrid",
+         "pos": "CF",
+         "rate": 77,
+         "foot": "R",
+         "height": 190
+      },
+      "stats": {
+         "speed": 75,
+         "acc": 76,
+         "stamina": 74,
+         "control": 79,
+         "stength": 74,
+         "tackle": 43,
+         "passing": 73,
+         "shooting": 80,
+         "gk_handling": null,
+         "gk_reaction": null
+      }
+   }
+}
