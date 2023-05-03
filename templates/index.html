@@ -6,11 +6,14 @@
         <title>DLSStats</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <!-- <link rel="stylesheet" href="{{ url_for('static',filename='styles/styles.css') }}"> -->
+        <link rel="stylesheet" href="../static/styles/styles.css">
     </head>
     <body>
-        <div class="idk">
-            <h1>DLSStats</h1>
-        </div>
+        <div class="UpBar">
+            <ul>
+                <li><a href="/" class="siteName"><b>DLS</b>Stats</a></li>
+                <li><input class="search-wrapper" id="search-wrapper" type="search" placeholder="Search..."></li>
+            </ul>
     </body>
 </html>

@@ -74,7 +74,3 @@ playersDict = {**legPlayers, **rarePlayers}
 with open('json\PlayerInfo.json', 'w')as f:
     json_string = json.dumps(playersDict, indent=3)
     f.write(json_string)
-
-def getPlayers():
-    legPlayers, rarePlayers = playerConverter('Legendary Players', 'spreadsheets\DLS-23-RATINGS.xlsx'), playerConverter('Rare Players', 'spreadsheets\DLS-23-RATINGS.xlsx')
-    return {'legends': legPlayers, 'rare': rarePlayers}

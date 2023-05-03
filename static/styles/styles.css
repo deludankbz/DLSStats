@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Fira+Code&family=Poppins:wght@400;500;700&display=swap');
+
+:root {
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Fira Code', monospace;
+    font-family: 'Poppins', sans-serif;
+    --pColor: #031122;
+    --sColor: #f2f3e6;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: var(--pColor);
+}
+
+.siteName {
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    color: var(--sColor);
+}
+
+.search-wrapper {
+    padding: 8px 16px;
+    border: 2px solid var(--sColor);
+    background-color: var(--pColor);
+    border-radius: 30px;
+    outline: none;
+}
+
+.UpBar {
+    padding: 16px;
+    background-color: var(--pColor);
+    border-bottom: 2px solid var(--sColor);
+}
+
+.UpBar ul{
+    margin-left: 2vh;
+    margin-right: 2vh;
+    color: var(--sColor);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+/* Player Info Card */
+.playerInfoCard {
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: 3vw;
+}
+
+.playerInfoCard a {
+    color: var(--sColor)
+}
+
+.playerInfoCard .playerCardInfo .playerPos {
+    font-weight: bold;
+    border-radius: 0.5vw;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: indianred;
+    color: black
+}
+
+.playerInfoCard .playerCardInfo .playerRate {
+    margin-left: 1vw;
+    font-weight: bold;
+    color: greenyellow
+}

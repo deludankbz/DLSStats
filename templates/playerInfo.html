@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>DLSStats</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- <link rel="stylesheet" href="{{ url_for('static',filename='styles/styles.css') }}"> -->
+        <link rel="stylesheet" href="../static/styles/styles.css">
+    </head>
+    <body>
+        <div class="UpBar">
+            <ul>
+                <li><a href="/" class="siteName"><b>DLS</b>Stats</a></li>
+                <li><input class="search-wrapper" type="search" placeholder="Search..."></li>
+            </ul>
+        </div>
+        <div class="playerInfoCard">
+            <div class="playerCardName">
+                <a>{{plData[0]['playerInfo']['gameInfo']['name']}}<b> {{plData[0]['playerInfo']['gameInfo']['surname']}}</b></a>
+                <!-- Country Flag next to player's name -->
+            </div>
+            <div class="playerCardInfo">
+                <!-- Player Image here -->
+                <a class="playerPos">{{plData[0]['playerInfo']['gameInfo']['pos']}}</a>
+                <a class="playerRate">{{plData[0]['playerInfo']['gameInfo']['rate']}}</a>
+                <a class="playerPrice">{{plData[0]['playerInfo']['gameInfo']['price']}}</a>
+                <a class="playerClub">{{plData[0]['playerInfo']['gameInfo']['club']}}</a>
+                <!-- Foot vector -->
+                <a class="playerFoot">{{plData[0]['playerInfo']['gameInfo']['foot']}}</a>
+                <a class="playerHeight">{{plData[0]['playerInfo']['gameInfo']['height']}}</a>
+            </div>
+            <a>{{plData[0]}}</a>
+
+        </div>
+    </body>
+</html>
