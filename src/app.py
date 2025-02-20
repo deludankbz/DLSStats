@@ -1,10 +1,12 @@
 from flask import Flask, render_template
 import json
 from lib import PlayerFinder
-from fuzzywuzzy import fuzz
+# from fuzzywuzzy import fuzz
 
-app = Flask(__name__, static_url_path='/static')
-with open('PythonScripts\json\PlayerInfo.json', 'r') as f: playerDict = json.load(f)
+# TODO FIX: Fix paths
+
+app = Flask("DLSStats", static_url_path='/static')
+with open('PythonScripts/json/PlayerInfo.json', 'r') as f: playerDict = json.load(f)
 
 @app.route('/q=<search_query>')
 def search(search_query):
@@ -16,4 +18,5 @@ def index():
     return render_template('index.html')
 
 if __name__ == '__main__':
-    app.run(host='192.168.0.70')
+    app.run(host='127.0.0.1', port=5555)
+

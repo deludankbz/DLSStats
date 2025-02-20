@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <!--add fav icon-->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>DLSStats</title>
@@ -13,6 +14,8 @@
         <div class="UpBar">
             <ul>
                 <li><a href="/" class="siteName"><b>DLS</b>Stats</a></li>
+                <!--input could redirect user to route /q=searchQuery-->
+                <!--input should return only alpha chars; regex it. find way to avoid input injections with route.-->
                 <li><input class="search-wrapper" id="search-wrapper" type="search" placeholder="Search..."></li>
             </ul>
     </body>
